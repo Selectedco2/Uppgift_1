@@ -1,0 +1,12 @@
+ul{
+    background-color: tomato;
+    color: white;
+}
+li{
+    background-color: black;
+}
+ol{
+    background-color: darkred;
+    color: white;
+}
+
